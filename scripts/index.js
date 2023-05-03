@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'may 26, 2023',
-  name: 'my dear Bachha swearheart'
+  name: 'my dear Bachha swearheart ❤️'
 };
 
 function hideEverything() {
